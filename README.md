@@ -10,7 +10,7 @@ Instructions
 
 1. Checkout the code using 'git checkout https://github.com/daleadae/Getting-And-Cleaning-Data-Week-3.git *DIRECTORY*'
 
-2. Download the [data set](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+2. Download the [data set](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 3. Unzip the data set into *DIRECTORY* and you should see a folder named **UCI HAR Dataset** in *DIRECTORY*
 
